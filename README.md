@@ -10,7 +10,8 @@ Jogo contém tela de login e criação de conta. Na tela do jogo, contém dois t
 Após o fim do turno do jogador, os tabuleiros são escondidos para que o inimigo não consiga visualizar o tabuleiro do seu oponente.
 - 4 barcos para cada jogador
 - Feito no paradigma de orientação a objetos
-- Faz operações simples com o banco de dados
+- Faz operações simples com o banco de dados MariaDB
+- Interface criada utilizando a IDE NetBeans 22
 
 
 
